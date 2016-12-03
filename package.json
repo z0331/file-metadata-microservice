@@ -1,0 +1,14 @@
+{
+  "name": "timestamp",
+  "version": "1.0.0",
+  "description": "CodeAcademy file-metadata-microservice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maxim",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
